@@ -1,0 +1,5 @@
+spring:
+  message: Hello Soonam Running Dev Env
+
+server:
+  port: 8080
